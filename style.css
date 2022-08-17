@@ -52,4 +52,10 @@ ul>li>a:hover {
 .btn {
     font-size: 1.2em;
     cursor: pointer;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(11, 220, 11);
+    box-shadow: 1px 1px 1px 1px lightgray;
+    border: none;
+    border-radius: 8%;
 }

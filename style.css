@@ -83,4 +83,6 @@ hr {
 .title {
     padding: 2px;
     margin: 10px 0 10px 0;
+    font-weight: 300;
+    font-size: 3em;
 }

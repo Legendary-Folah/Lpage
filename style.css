@@ -123,6 +123,7 @@ hr {
 
 .search:focus-within::before {
     transform: scale(1);
+    transition: transform .20s;
 }
 
 .search input,

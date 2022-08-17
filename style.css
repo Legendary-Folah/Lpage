@@ -58,4 +58,12 @@ ul>li>a:hover {
     box-shadow: 1px 1px 1px 1px lightgray;
     border: none;
     border-radius: 8%;
+    padding: 4px 8px 4px 8px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    cursor: pointer;
 }
